@@ -41,7 +41,7 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```sh
-    git clone <https://github.com/Babs0022/brick-breaker-game>
+    git clone https://github.com/Babs0022/brick-breaker-game
     ```
 2.  **Navigate to the project directory:**
     ```sh
